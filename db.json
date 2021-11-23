@@ -1,0 +1,68 @@
+{
+  "cds": [
+    {
+      "id": 1,
+      "nome": "AM",
+      "artista": "Arctic Monkeys",
+      "ano_lancamento": "2012",
+      "genero": "Indie",
+      "gravadora": 1
+    },
+    {
+      "id": 2,
+      "nome": "Take Me Home",
+      "artista": "One Direction",
+      "ano_lancamento": 2012,
+      "genero": "Pop",
+      "gravadora": 2
+    },
+    {
+      "id": 3,
+      "nome": "Butter",
+      "artista": "BTS",
+      "ano_lancamento": 2020,
+      "genero": "K-Pop",
+      "gravadora": 3
+    },
+    {
+      "id": "4",
+      "nome": "teste",
+      "ano_lancamento": "2021",
+      "artista": "euzinha",
+      "genero": "pop",
+      "gravadora": "4"
+    }
+  ],
+  "gravadoras": [
+    {
+      "id": 1,
+      "nome": "Domino Records",
+      "cnpj": "67.314.786/0001-37",
+      "fundacao": 1993
+    },
+    {
+      "id": 2,
+      "nome": "Sony Music",
+      "cnpj": "98.418.769/0001-00",
+      "fundacao": 1929
+    },
+    {
+      "id": 3,
+      "nome": "Hybe Labels",
+      "cnpj": "62.417.762/0001-45",
+      "fundacao": 2005
+    },
+    {
+      "id": "4",
+      "nome": "teste",
+      "cnpj": "68.187.796/0001-77",
+      "fundacao": "2021"
+    },
+    {
+      "id": "5",
+      "nome": "teste",
+      "cnpj": "68.187.796/0001-77",
+      "fundacao": "2021"
+    }
+  ]
+}
